@@ -8,7 +8,7 @@ missing values, correlations, and insights relevant for machine learning.
 ## Files Included
 - Titanic-Dataset.csv : Original dataset
 - titanic_profiling.html : Auto-generated EDA profiling report
-- eda_notebook.ipynb : (Optional) Notebook used to generate the report
+- eda_notebook.ipynb :  Notebook used to generate the report
 
 ## Tools & Libraries
 - Python
